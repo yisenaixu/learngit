@@ -12,3 +12,5 @@ Creating a new branch is quick and simple
 
  add change test and go main
  go test 
+
+ add change main not commit and go test
